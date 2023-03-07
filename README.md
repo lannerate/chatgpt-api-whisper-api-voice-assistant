@@ -1,6 +1,10 @@
 # chatgpt-api-whisper-api-voice-assistant
 chatgpt api and whisper api tutorial - voice conversation with therapist
 
-Video Demo / Tutorial:
-
-https://www.youtube.com/watch?v=Si0vFx_dJ5Y
+# how to run
+please change openai key in config.py
+and then run below command
+```
+pip3 install -r ./requirements.txt
+python3 ./assistant.py
+```
